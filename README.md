@@ -83,7 +83,7 @@ As a freelance remote worker, I frequently encountered fraudulent clients who wo
 
 The application is structured into a frontend and backend, communicating via RESTful APIs. Below is a high-level overview of the data flow:
 
-![Payscrow Architecture Diagram](https://app.eraser.io/workspace/7Ssc2ihV8roAaLLUNy2h?origin=share&elements=3ytFcHkAS3mhkWQBug8GNQ)
+![Payscrow Architecture Diagram](https://app.eraser.io/workspace/7Ssc2ihV8roAaLLUNy2h?origin=share)
 
 ### Key Features
 
