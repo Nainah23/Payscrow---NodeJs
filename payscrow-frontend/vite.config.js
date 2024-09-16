@@ -10,6 +10,7 @@ export default defineConfig({
   },
   root: '.',
   build: {
-    outDir: '../dist',
+    outDir: 'dist', // Ensure the output directory is "dist"
+    emptyOutDir: true, // Automatically empty the output directory before building
   },
 });
